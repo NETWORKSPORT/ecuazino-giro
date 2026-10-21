@@ -1,6 +1,5 @@
 {
-  "cleanUrls": true,
   "headers": [
-    { "source": "/assets/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }] }
+    { "source": "/Ecuazino-Propuesta-Comercial.html", "headers": [{ "key": "Content-Disposition", "value": "attachment; filename=\"Ecuazino-Propuesta-Comercial.html\"" }] }
   ]
 }
